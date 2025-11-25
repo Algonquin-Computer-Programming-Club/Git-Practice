@@ -1,5 +1,6 @@
 # Git Practice
-### algonuqin regiona hltujh fdagjiomdkflfvjurea
-is co l
-
+### algonuqin regional high school
+is cool
+-# we hope
+-# hey, this is markdown (I think thats what its called)
 :)
